@@ -1,0 +1,1 @@
+<?php $db_server="SmartAplicationv1_rev1";
